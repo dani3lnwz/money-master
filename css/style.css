@@ -24,30 +24,44 @@ p{
     font-weight: bold;
 }
 .container{
-    background-color: rgba(228, 238, 238, 0.74);
+    background-color: rgba(161, 180, 180, 0.74);
 }
 .container{
     padding-top: 10px;
+    padding-bottom: 10px;
+}
+.first{
+    margin-top: 40px;
 }
 #food-input{
     width: 30%;
     margin-left: 10px;
     border: 3px solid rgb(79, 79, 158);
+    background-color: rgba(179, 223, 208, 0.719);
+    font-weight: bold;
 }
 #rent-input{
     width: 30%;
     margin-left: 10px;
     border: 3px solid rgb(79, 79, 158);
+    background-color: rgba(179, 223, 208, 0.719);
+    font-weight: bold;
 }
 #cloths-input{
     width: 30%;
     margin-left: px;
     border: 3px solid rgb(79, 79, 158);
-    color: brown;
+    background-color: rgba(179, 223, 208, 0.719);
+    font-weight: bold;
 }
 #salary{
     border: 3px solid rgb(79, 79, 158);
+    background-color: rgba(179, 223, 208, 0.719);
+    font-weight: bold;
 }
 #save-input{
     border: 3px solid rgb(79, 79, 158);
+    
+    background-color: rgba(179, 223, 208, 0.719);
+    font-weight: bold;
 }
